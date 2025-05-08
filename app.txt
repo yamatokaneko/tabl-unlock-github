@@ -17,3 +17,4 @@ Feature 16: add onboarding tutorial
 Feature 17: add multi-language support
 Feature 18: add API documentation
 Feature 19: add analytics tracking
+Feature 20: add admin panel
