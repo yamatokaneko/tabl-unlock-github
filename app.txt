@@ -3,3 +3,4 @@ Feature 2: implement password reset
 Feature 3: add user profile page
 Feature 4: enable email notifications
 Feature 5: add dashboard analytics
+Feature 6: implement dark mode
