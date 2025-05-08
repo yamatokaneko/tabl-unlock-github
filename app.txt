@@ -8,3 +8,4 @@ Feature 7: add team management
 Feature 8: integrate Slack notifications
 Feature 9: add file upload support
 Feature 10: implement search functionality
+Feature 11: add calendar integration
