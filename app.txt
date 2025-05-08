@@ -11,3 +11,4 @@ Feature 10: implement search functionality
 Feature 11: add calendar integration
 Feature 12: enable two-factor authentication
 Feature 13: add billing and invoices
+Feature 14: implement activity feed
