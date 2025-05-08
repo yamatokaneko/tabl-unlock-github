@@ -4,3 +4,4 @@ Feature 3: add user profile page
 Feature 4: enable email notifications
 Feature 5: add dashboard analytics
 Feature 6: implement dark mode
+Feature 7: add team management
