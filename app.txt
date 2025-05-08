@@ -13,3 +13,4 @@ Feature 12: enable two-factor authentication
 Feature 13: add billing and invoices
 Feature 14: implement activity feed
 Feature 15: add export to CSV
+Feature 16: add onboarding tutorial
